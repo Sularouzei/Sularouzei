@@ -1,4 +1,4 @@
-## Olá sou Sulamita, estudando de Analise e Desenvolvimento de Sistemas - ADS
+## Olá sou Sulamita, estudando Análise e Desenvolvimento de Sistemas - ADS
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
